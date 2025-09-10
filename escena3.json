@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "title": "AlegreMente 2025 · Escena 3",
+    "subtitle": "Carnaval / Pueblo Tambor / Siyahamba",
+    "footer": "AlegreMente 2025 · Escena 3 · Guía práctica",
+    "images": {
+      "hero": "Escena 3.jpg",
+      "heroAlt": "Escena 3 – Carnaval / Pueblo Tambor / Siyahamba"
+    }
+  },
+  "audio": {
+    "label": "🎶 Audio: “Siyahamba / Pueblo Tambor”",
+    "sources": ["Siyahamba.mp3", "Pueblo Tambor.mp3", "Siyahamba - Orquesta.mp3"]
+  },
+  "filters": {
+    "areas":   ["teatro", "musica", "danza", "plastica", "luces", "sonido", "produccion"],
+    "centros": ["arroyo", "betania", "colegio"],
+    "log":     ["vestuario", "sonido", "orquesta", "proyeccion", "materiales", "luces", "percusion"]
+  },
+  "resumen": {
+    "text": "Sofía vuelve a latir con el <em>nosotros</em>. El carnaval la envuelve; tambores y voces se entrelazan con la orquesta en <b>Siyahamba / Pueblo Tambor</b>. Máscaras, colores y pasos circulares construyen comunidad: <em>“¡Caminamos juntos!”</em>",
+    "duration": "10 min",
+    "tags": ["Teatro · Danza · Artes Plásticas", "Música: Orquesta + Tambores"]
+  },
+  "proposito": [
+    "<strong>Reforzar</strong> sentido de pertenencia y comunidad a través del arte.",
+    "<strong>Explorar</strong> ritmos afro y cantos colectivos como lenguaje de unión.",
+    "<strong>Valorar</strong> la diversidad cultural y los símbolos del carnaval."
+  ],
+  "pasos": [
+    "Sofía encuentra un círculo de niñas y niños con <b>rostros pintados</b> y trajes coloridos.",
+    "Diálogo: <em>“Perdimos la música”</em> — Sofía: <em>“Yo también quiero latir”</em>.",
+    "Golpes al suelo: <b>Tum… Tum… ¡TUM!</b> Comienza la pista de tambores.",
+    "Entran movimientos circulares; la <b>orquesta</b> suma <em>Siyahamba</em>.",
+    "Clímax en espiral y grito colectivo: <b>“¡Caminamos juntos!”</b>"
+  ],
+  "plastica": {
+    "items": [
+      "<strong>Tambor gigante</strong> de tela al centro (estructura liviana con aro y lienzo pintado).",
+      "<strong>Máscaras</strong> móviles: en varillas, colgadas y proyectadas.",
+      "<strong>Fondo</strong>: proyección cálida (amarillos y rojos) con motivos de carnaval."
+    ],
+    "assets": [
+      { "src": "Fondo 3.jpg" }
+    ]
+  },
+  "luces": [
+    { "Cue": "<b>L1 – Llamado</b>", "Estado": "Ámbar tenue + azul bajo", "Detalle": "Círculo silencioso, respiración colectiva." },
+    { "Cue": "<b>L2 – Primer Tum</b>", "Estado": "Ámbar medio + contraluces", "Detalle": "Golpes al suelo; aparecen sombras de máscaras." },
+    { "Cue": "<b>L3 – Carnaval</b>", "Estado": "Cálidos vivos", "Detalle": "Inicio de Siyahamba / entradas de danza circular." },
+    { "Cue": "<b>L4 – Espiral</b>", "Estado": "Movimiento suave", "Detalle": "Barridos cálidos siguiendo la espiral." },
+    { "Cue": "<b>L5 – Final</b>", "Estado": "General cálido", "Detalle": "Gran corazón humano; blackout suave." }
+  ],
+  "sonido": [
+    "<b>Entrada de tambores:</b> sobre <b>tres golpes</b> (señal corporal).",
+    "<b>Orquesta:</b> suma <em>Siyahamba</em> tras 8 compases de percusión.",
+    "<b>Corte final:</b> limpio para el grito <em>“¡Caminamos juntos!”</em>.",
+    "<b>Refuerzo:</b> microfonía/monitores según espacio (ver rider general).",
+    "<b>Proyección–audio:</b> coordinar transiciones con fondo cálido."
+  ],
+  "vestuario": {
+    "images": [
+      {"title":"Máscaras – opción 1","src":"mascara1.jpg","file":"mascara1.jpg"},
+      {"title":"Máscaras – opción 2","src":"mascara2.jpg","file":"mascara2.jpg"},
+      {"title":"Pinta facial – guía","src":"pintafacial.jpg","file":"pintafacial.jpg"},
+      {"title":"Vestuario estilo africano – niñas","src":"vestuario-niñas.jpg","file":"vestuario-niñas.jpg"},
+      {"title":"Vestuario estilo africano – niños","src":"vestuario-niños.jpg","file":"vestuario-niños.jpg"}
+    ]
+  },
+  "escenario": {
+    "images": [
+      { "title": "Arte escena 3", "src": "Escena 3.jpg", "alt": "Arte de Escena 3" },
+      { "title": "Fondo 3", "src": "Fondo 3.jpg", "alt": "Fondo cálido con motivos de carnaval" }
+    ]
+  },
+  "checklist": [
+    "[ ] Tambor gigante armado y estable.",
+    "[ ] Máscaras terminadas (varillas / colgantes / proyección).",
+    "[ ] Pinta facial y kit de maquillaje artístico listos.",
+    "[ ] Ensayo con orquesta + tambores (entradas y cortes).",
+    "[ ] Luces programadas (L1–L5) y prueba de proyección.",
+    "[ ] Roles claros: círculo inicial, guía de espiral y cierre."
+  ],
+  "pdfs": {
+    "guion": "Guión Escena III.pdf",
+    "partitura": "Siyahamba Partitura.pdf"
+  },
+  "centros": {
+    "items": [
+      "<b>Teatro:</b> Arroyo – Betania",
+      "<b>Danza:</b> Betania",
+      "<b>Artes plásticas:</b> GMMMC"
+    ],
+    "docentesText": "Docentes responsabiles: Angie Nitola, Leydy Díaz y María Camila Pirajan"
+  },
+  "materiales": [
+    "Vestuario <em>estilo africano</em> (colores vivos). <span class='pill'>vestuario</span>",
+    "Tambor de tela (tela quirúrgica o lona, aro, vinilos, pinceles). <span class='pill'>materiales</span>",
+    "Máscaras: cartón, pinturas, escarcha, plumas, lentejuelas. <span class='pill'>materiales</span>",
+    "Maquillaje artístico (negro, blanco, rojo, verde, amarillo, azul) + brochas. <span class='pill'>materiales</span>",
+    "Proyección: <code>Fondo 3.jpg</code> con motivos de carnaval. <span class='pill'>proyeccion</span>"
+  ],
+  "recursos": [
+    {"title":"Guión Escena III (PDF)", "href":"Guión Escena III.pdf", "areas":["teatro","produccion"], "icon":"📄"},
+    {"title":"Carpeta de Partituras – Escena 3", "href":"[PON_AQUÍ_EL_ENLACE_DE_LA_CARPETA_DE_PARTITURAS]", "areas":["musica"], "icon":"🎼"},
+    {"title":"Pista – Siyahamba (MP3)", "href":"Siyahamba.mp3", "areas":["musica"], "icon":"🎵"},
+    {"title":"Pista – Pueblo Tambor (MP3)", "href":"Pueblo Tambor.mp3", "areas":["musica"], "icon":"🎵"}
+  ],
+  "docentes": {
+    "hint": "Sugerencia: cada docente puede tener su mini guía con materiales y tareas.",
+    "items": [
+      {"name":"Angie Nitola","url":"docentes/teatro.html","areas":["teatro y artes plásticas"]},
+      {"name":"Leydy Díaz","url":"docentes/teatro.html","areas":["teatro"]},
+      {"name":"María Camila Pirajan","url":"docentes/danza.html","areas":["danza"]}
+    ]
+  },
+  "glosario": [
+    {"term":"cue","def":"orden/estado de luces o sonido"},
+    {"term":"spot","def":"luz puntual dirigida a una persona/objeto"},
+    {"term":"contraluz","def":"luz desde el fondo para crear siluetas/sombras"}
+  ]
+}
