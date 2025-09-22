@@ -118,5 +118,14 @@
     {"term":"cue","def":"orden/estado de luces o sonido"},
     {"term":"spot","def":"luz puntual dirigida a una persona/objeto"},
     {"term":"contraluz","def":"luz desde el fondo para crear siluetas/sombras"}
+  ],
+  "pistas": [
+    {
+      "title": "Danza · Escena 3 — Son de Negro",
+      "href": "DANZA ESCENA 3 Son de Negro.mp3",
+      "areas": ["danza"],
+      "icon": "🎧"
+    }
   ]
 }
+
