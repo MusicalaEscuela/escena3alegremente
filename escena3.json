@@ -14,7 +14,7 @@
   },
   "filters": {
     "areas":   ["teatro", "musica", "danza", "plastica", "luces", "sonido", "produccion"],
-    "centros": ["arroyo", "betania", "colegio"],
+    "centros": ["betania", "gmmmc"],
     "log":     ["vestuario", "sonido", "orquesta", "proyeccion", "materiales", "luces", "percusion"]
   },
   "resumen": {
@@ -87,11 +87,11 @@
   },
   "centros": {
     "items": [
-      "<b>Teatro:</b> Arroyo – Betania",
+      "<b>Teatro:</b> Betania",
       "<b>Danza:</b> Betania",
       "<b>Artes plásticas:</b> GMMMC"
     ],
-    "docentesText": "Docentes responsabiles: Angie Nitola, Leydy Díaz y María Camila Pirajan"
+    "docentesText": "Docentes responsabiles: Leydy Díaz y María Camila Pirajan"
   },
   "materiales": [
     "Vestuario <em>estilo africano</em> (colores vivos). <span class='pill'>vestuario</span>",
@@ -109,7 +109,7 @@
   "docentes": {
     "hint": "Sugerencia: cada docente puede tener su mini guía con materiales y tareas.",
     "items": [
-      {"name":"Angie Nitola","url":"docentes/teatro.html","areas":["teatro y artes plásticas"]},
+      {"name":"Leydy Díaz","url":"docentes/teatro.html","areas":["teatro y artes plásticas"]},
       {"name":"Leydy Díaz","url":"docentes/teatro.html","areas":["teatro"]},
       {"name":"María Camila Pirajan","url":"docentes/danza.html","areas":["danza"]}
     ]
@@ -128,5 +128,6 @@
     }
   ]
 }
+
 
 
