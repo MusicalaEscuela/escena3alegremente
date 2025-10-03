@@ -14,7 +14,7 @@
   },
   "filters": {
     "areas":   ["teatro", "musica", "danza", "plastica", "luces", "sonido", "produccion"],
-    "centros": ["betania", "gmmmc"],
+    "centros": ["arroyo", "betania", "colegio"],
     "log":     ["vestuario", "sonido", "orquesta", "proyeccion", "materiales", "luces", "percusion"]
   },
   "resumen": {
@@ -60,17 +60,15 @@
   ],
   "vestuario": {
     "images": [
-      {"title":"Máscaras – opción 1","src":"mascara1.jpg","file":"mascara1.jpg"},
-      {"title":"Máscaras – opción 2","src":"mascara2.jpg","file":"mascara2.jpg"},
-      {"title":"Pinta facial – guía","src":"pintafacial.jpg","file":"pintafacial.jpg"},
-      {"title":"Vestuario estilo africano – niñas","src":"vestuario-niñas.jpg","file":"vestuario-niñas.jpg"},
-      {"title":"Vestuario estilo africano – niños","src":"vestuario-niños.jpg","file":"vestuario-niños.jpg"}
+      {"title":"Máscaras – opción 1","src":"mascaras.jpeg","file":"mascara1.jpg"},
+      {"title":"Vestuario estilo africano – niñas","src":"vestuario3.jpg","file":"vestuario-niñas.jpg"}
     ]
   },
   "escenario": {
     "images": [
       { "title": "Arte escena 3", "src": "Escena 3.jpg", "alt": "Arte de Escena 3" },
-      { "title": "Fondo 3", "src": "Fondo 3.jpg", "alt": "Fondo cálido con motivos de carnaval" }
+      { "title": "Tambor", "src": "tambor.jpeg", "alt": "Arte de Escena 3" },
+      { "title": "Escenario 3", "src": "escenario3.png", "alt": "Fondo cálido con motivos de carnaval" }
     ]
   },
   "checklist": [
@@ -87,29 +85,28 @@
   },
   "centros": {
     "items": [
-      "<b>Teatro:</b> Betania",
+      "<b>Teatro:</b> Arroyo – Betania",
       "<b>Danza:</b> Betania",
       "<b>Artes plásticas:</b> GMMMC"
     ],
-    "docentesText": "Docentes responsabiles: Leydy Díaz y María Camila Pirajan"
+    "docentesText": "Docentes responsabiles: Angie Nitola, Leydy Díaz y María Camila Pirajan"
   },
   "materiales": [
     "Vestuario <em>estilo africano</em> (colores vivos). <span class='pill'>vestuario</span>",
     "Tambor de tela (tela quirúrgica o lona, aro, vinilos, pinceles). <span class='pill'>materiales</span>",
     "Máscaras: cartón, pinturas, escarcha, plumas, lentejuelas. <span class='pill'>materiales</span>",
     "Maquillaje artístico (negro, blanco, rojo, verde, amarillo, azul) + brochas. <span class='pill'>materiales</span>",
-    "Proyección: <code>Fondo 3.jpg</code> con motivos de carnaval. <span class='pill'>proyeccion</span>"
+    "Proyección: Motivos de carnaval. <span class='pill'>proyeccion</span>"
   ],
   "recursos": [
     {"title":"Guión Escena III (PDF)", "href":"Guión Escena III.pdf", "areas":["teatro","produccion"], "icon":"📄"},
     {"title":"Carpeta de Partituras – Escena 3", "href":"[PON_AQUÍ_EL_ENLACE_DE_LA_CARPETA_DE_PARTITURAS]", "areas":["musica"], "icon":"🎼"},
-    {"title":"Pista – Siyahamba (MP3)", "href":"Siyahamba.mp3", "areas":["musica"], "icon":"🎵"},
-    {"title":"Pista – Pueblo Tambor (MP3)", "href":"Pueblo Tambor.mp3", "areas":["musica"], "icon":"🎵"}
+    {"title":"Pista – Siyahamba (MP3)", "href":"Siyahamba.mp3", "areas":["musica"], "icon":"🎵"}
   ],
   "docentes": {
     "hint": "Sugerencia: cada docente puede tener su mini guía con materiales y tareas.",
     "items": [
-      {"name":"Leydy Díaz","url":"docentes/teatro.html","areas":["teatro y artes plásticas"]},
+      {"name":"Angie Nitola","url":"docentes/teatro.html","areas":["teatro y artes plásticas"]},
       {"name":"Leydy Díaz","url":"docentes/teatro.html","areas":["teatro"]},
       {"name":"María Camila Pirajan","url":"docentes/danza.html","areas":["danza"]}
     ]
@@ -118,16 +115,5 @@
     {"term":"cue","def":"orden/estado de luces o sonido"},
     {"term":"spot","def":"luz puntual dirigida a una persona/objeto"},
     {"term":"contraluz","def":"luz desde el fondo para crear siluetas/sombras"}
-  ],
-  "pistas": [
-    {
-      "title": "Danza · Escena 3 — Son de Negro",
-      "href": "DANZA ESCENA 3 Son de Negro.m4a",
-      "areas": ["danza"],
-      "icon": "🎧"
-    }
   ]
 }
-
-
-
