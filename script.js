@@ -414,33 +414,6 @@ function asideGlosario(items) {
   $('#col-aside').appendChild(el);
 }
 
-/* NEW: Pistas adicionales (aside) */
-function asidePistas(items) {
-  const { el, content } = makeCard({ title: '🎧 Pistas adicionales' });
-  const ul = document.createElement('ul');
-  ul.style.listStyle = 'none';
-  ul.style.paddingLeft = '0';
-
-  (items || []).forEach(p => {
-    const li = document.createElement('li');
-    li.style.display = 'flex';
-    li.style.justifyContent = 'space-between';
-    li.style.alignItems = 'center';
-    li.style.borderBottom = '1px solid #eee';
-    li.style.padding = '6px 0';
-    li.innerHTML = `
-      <a href="${encodeURI(p.href)}" target="_blank" rel="noreferrer">
-        ${p.icon || '🎧'} ${p.title}
-      </a>
-      ${p.areas ? `<span class="teacher-tags">${(p.areas || []).join(', ')}</span>` : ''}
-    `;
-    ul.appendChild(li);
-  });
-
-  content.appendChild(ul);
-  $('#col-aside').appendChild(el);
-}
-
 /* ====================== Init ====================== */
 (async function init() {
   try {
@@ -475,7 +448,6 @@ function asidePistas(items) {
     if (cfg.recursos)   asideRecursos(cfg.recursos);
     if (cfg.docentes)   asideDocentes(cfg.docentes);
     if (cfg.glosario)   asideGlosario(cfg.glosario);
-    if (cfg.pistas)     asidePistas(cfg.pistas); // 👈 NUEVO: debajo del glosario
 
     // Aplicar filtros (inicial)
     applyFilters();
@@ -483,4 +455,3 @@ function asidePistas(items) {
     console.error(e);
   }
 })();
-
