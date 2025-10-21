@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "AlegreMente 2025 · Escena 3",
-    "subtitle": Pueblo Tambor / Siyahamba",
+    "subtitle": "Pueblo Tambor / Siyahamba",
     "footer": "AlegreMente 2025 · Escena 3 · Guía práctica",
     "images": {
       "hero": "Escena 3.jpg",
@@ -127,7 +127,8 @@
     { "title":"Guión Escena III (PDF)", "href":"Guión Escena III.pdf", "areas":["teatro","produccion"], "icon":"📄" },
     { "title":"Partitura – Siyahamba (PDF)", "href":"Siyahamba partitura.pdf", "areas":["musica"], "icon":"🎼" },
     { "title":"Pista – Siyahamba (MP3)", "href":"Siyahamba.mp3", "areas":["musica"], "icon":"🎵" },
-    { "title":"Danza – Son de Negro (M4A)", "href":"DANZA ESCENA 3 Son de Negro.m4a", "areas":["danza","musica"], "icon":"🎵" }
+    { "title":"Danza – Son de Negro (M4A)", "href":"DANZA ESCENA 3 Son de Negro.m4a", "areas":["danza","musica"], "icon":"🎵" },
+    { "title": "Ensayo Danzas y Teatro - Betania Escena 3 (oct)", "href": "https://www.youtube.com/watch?v=cBbA9NdDndo", "areas": ["danza","teatro"], "icon": "▶️" }
   ],
 
   "docentes": {
@@ -167,4 +168,5 @@
     "data": ["escena3.json"]
   }
 }
+
 
