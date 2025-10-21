@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "AlegreMente 2025 · Escena 3",
-    "subtitle": "Carnaval / Pueblo Tambor / Siyahamba",
+    "subtitle": Pueblo Tambor / Siyahamba",
     "footer": "AlegreMente 2025 · Escena 3 · Guía práctica",
     "images": {
       "hero": "Escena 3.jpg",
-      "heroAlt": "Escena 3 – Carnaval / Pueblo Tambor / Siyahamba",
+      "heroAlt": "Escena 3 – Pueblo Tambor / Siyahamba",
       "logo": "logo.jpg"
     }
   },
@@ -20,7 +20,7 @@
 
   "filters": {
     "areas": ["teatro","musica","danza","plastica","luces","sonido","produccion"],
-    "centros": ["arroyo","betania","colegio"],
+    "centros": ["betania","gmmmc"],
     "log": ["vestuario","sonido","orquesta","proyeccion","materiales","luces","percusion"]
   },
 
@@ -108,7 +108,7 @@
 
   "centros": {
     "items": [
-      "<b>Teatro:</b> Arroyo – Betania",
+      "<b>Teatro:</b> Betania",
       "<b>Danza:</b> Betania",
       "<b>Artes plásticas:</b> GMMMC"
     ],
@@ -167,3 +167,4 @@
     "data": ["escena3.json"]
   }
 }
+
